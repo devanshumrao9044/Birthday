@@ -157,7 +157,7 @@ Feel free to fork this repository, add your own twists, or submit issues and pul
 
 ## 👨‍💻 Author
 
-Created with 💖 by **[@saklincodes](https://github.com/saklincodes)**
+Created with 💖 by Devansh**
 
 ---
 
