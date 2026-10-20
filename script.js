@@ -1,6 +1,6 @@
 /* ───
    Project: Secret Birthday Gift
-   Author: @saklin_01
+   Author: @Devansh
 ─── */
 
 /* ─── CLOCK DIAL TICKS & NUMERALS ─── */
